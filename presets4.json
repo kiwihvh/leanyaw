@@ -11,7 +11,7 @@
         "fake_flick_angle":0,
         "fake_r":58,
         "ticks_to_flick":0,
-        "yaw_mod_add":35,
+        "yaw_mod_add":82,
         "max_velo_int":100,
         "rollint_l":0,
         "random_desync":false,
@@ -32,13 +32,13 @@
         "fake_flick_angle":0,
         "fake_r":58,
         "ticks_to_flick":0,
-        "yaw_mod_add":64,
+        "yaw_mod_add":82,
         "max_velo_int":100,
         "rollint_l":0,
         "random_desync":false,
         "yaw_add":0,
         "lby_r":58,
-        "fake_opt":2
+        "fake_opt":0
     },
     "air":
     {
@@ -53,13 +53,13 @@
         "fake_flick_angle":0,
         "fake_r":58,
         "ticks_to_flick":0,
-        "yaw_mod_add":64,
+        "yaw_mod_add":82,
         "max_velo_int":100,
         "rollint_l":0,
         "random_desync":false,
         "yaw_add":0,
         "lby_r":58,
-        "fake_opt":2
+        "fake_opt":0
     },
     "standing":
     {
@@ -74,16 +74,13 @@
         "fake_flick_angle":0,
         "fake_r":58,
         "ticks_to_flick":0,
-        "yaw_mod_add":64,
+        "yaw_mod_add":82,
         "max_velo_int":100,
         "rollint_l":0,
         "random_desync":false,
         "yaw_add":0,
         "lby_r":58,
-        "fake_opt":2
+        "fake_opt":0
     },
     "condition":"standing"
 }
-
-
-
