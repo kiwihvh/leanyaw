@@ -5,19 +5,19 @@
         "yaw_opt":4,
         "roll":false,
         "rollint_r":0,
-        "fake_l":58,
+        "fake_l":41,
         "random_lean":false,
         "lby_l":58,
         "fake_flick_angle":0,
-        "fake_r":58,
+        "fake_r":32,
         "ticks_to_flick":0,
-        "yaw_mod_add":82,
+        "yaw_mod_add":84,
         "max_velo_int":100,
         "rollint_l":0,
         "random_desync":false,
         "yaw_add":0,
         "lby_r":58,
-        "fake_opt":0
+        "fake_opt":2
     },
     "slowwalk":
     {
@@ -47,19 +47,19 @@
         "yaw_opt":4,
         "roll":false,
         "rollint_r":0,
-        "fake_l":58,
+        "fake_l":41,
         "random_lean":false,
         "lby_l":58,
         "fake_flick_angle":0,
-        "fake_r":58,
+        "fake_r":32,
         "ticks_to_flick":0,
-        "yaw_mod_add":82,
+        "yaw_mod_add":84,
         "max_velo_int":100,
         "rollint_l":0,
         "random_desync":false,
         "yaw_add":0,
         "lby_r":58,
-        "fake_opt":0
+        "fake_opt":2
     },
     "standing":
     {
@@ -68,19 +68,19 @@
         "yaw_opt":4,
         "roll":false,
         "rollint_r":0,
-        "fake_l":58,
+        "fake_l":41,
         "random_lean":false,
         "lby_l":58,
         "fake_flick_angle":0,
-        "fake_r":58,
+        "fake_r":32,
         "ticks_to_flick":0,
-        "yaw_mod_add":82,
+        "yaw_mod_add":84,
         "max_velo_int":100,
         "rollint_l":0,
         "random_desync":false,
         "yaw_add":0,
         "lby_r":58,
-        "fake_opt":0
+        "fake_opt":2
     },
     "condition":"standing"
 }
