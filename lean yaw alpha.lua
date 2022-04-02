@@ -237,12 +237,12 @@ local ui={
         clantag = Menu.Combo("Misc","<lean.yaw> Misc","Clantag", {"No Override", "Disabled", "Lean.yaw animated",--[[ "State", "Custom"]]}, 0),
         ctg_pref = Menu.TextBox("Misc","<lean.yaw> Misc","Clantag Prefix", 3, "$ "),
         --static_leg = Menu.Switch("Misc","<lean.yaw> Misc","Static Legs", false),
-        tpanim = Menu.Switch("Misc","<lean.yaw> Misc","Disable Thirdperson Animation", false, function(val) Cheat.SetThirdPersonAnim(val) end),
+        tpanim = Menu.Switch("Misc", "<lean.yaw> Misc", "Disable Thirdperson Animation", false, "INSTANT 3RD PERSON TRANSMISION",function(val) Cheat.SetThirdPersonAnim(false) end),
         slowwalk = Menu.Switch("Misc","<lean.yaw> Slowwalk","Custom SlowWalk", false),
         sw_speed = Menu.SliderInt("Misc", "<lean.yaw> Slowwalk", "SlowWalk Speed", 25, 0 , 250)
     }
 }
-key2s={
+--[[key2s={
 
 }
 local key1s={
@@ -259,7 +259,7 @@ function setvals()
     for i in condo do
         condo
     end
-end
+end]]
 function menustuff()
 
     ui.masters.aa_enable:SetVisible(true)
